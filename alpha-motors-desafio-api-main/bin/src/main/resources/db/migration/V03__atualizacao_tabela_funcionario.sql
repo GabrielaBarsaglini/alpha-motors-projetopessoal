@@ -1,0 +1,1 @@
+ALTER TABLE tb_funcionario ADD username VARCHAR(255) NOT NULL;

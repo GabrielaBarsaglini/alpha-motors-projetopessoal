@@ -1,0 +1,2 @@
+ALTER TABLE tb_funcionario MODIFY COLUMN telefone VARCHAR(11);
+ALTER TABLE tb_cliente MODIFY COLUMN telefone VARCHAR(11);
